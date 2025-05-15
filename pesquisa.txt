@@ -1,0 +1,20 @@
+O que é git?
+O Git é um sistema de controle de versão distribuído, ou seja, um sistema que permite rastrear
+ alterações em arquivos ao longo do tempo, facilitando a colaboração em projetos
+ de desenvolvimento de software e a recuperação de versões anteriores
+
+ O que são esses comandos do git?
+ Os comandos Git são instruções que você usa no terminal ou 
+ linha de comando para interagir com o sistema de controle de versão Git. 
+ Eles são usados para gerenciar o histórico de alterações de um projeto de software, 
+ como adicionar arquivos, criar branches, mesclar 
+ branches e enviar as alterações para um repositório remoto. 
+
+ Git status?
+ The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
+
+ git commit 
+ O git commit é um comando essencial no Git que salva as alterações feitas num projeto no histórico do repositório. Ele cria um instantâneo (snapshot) das alterações que foram previamente preparadas com o comando git add, registrando-as num ponto específico da linha do tempo do projeto. 
+
+ git push
+ O git push é um comando essencial no Git que permite enviar (ou "empurrar") os seus commits (alterações confirmadas) do seu repositório local para um repositório remoto, como o GitHub, GitLab ou Bitbucket. Em resumo, o git push sincroniza o seu repositório local com o repositório remoto, permitindo que outras pessoas vejam e trabalhem com as suas alterações. 
